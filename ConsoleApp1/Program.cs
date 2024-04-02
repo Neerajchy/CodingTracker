@@ -10,7 +10,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello world:nirajkumar");
+            Console.WriteLine("hello world:nirajkumar"); Console.WriteLine("hello world:nirajkumar");
+            Console.WriteLine("hello world:nirajkumar"); Console.WriteLine("hello world:nirajkumar");
+            Console.WriteLine("hello world:nirajkumar"); Console.WriteLine("hello world:nirajkumar"); Console.WriteLine("hello world:nirajkumar");
         }
     }
 }
